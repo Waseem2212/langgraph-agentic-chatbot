@@ -32,13 +32,18 @@ User → Streamlit UI
 ## 📂 Project Structure
 
 langgraph-agentic-chatbot/
-│
-├── backend.py # LangGraph agent, tools, memory, graph
-├── app.py # Streamlit frontend
-├── chatbot.db # SQLite database (auto-generated)
-├── requirements.txt
-├── .env
-└── README.md
+
+── backend.py # LangGraph agent, tools, memory, graph
+
+── app.py # Streamlit frontend
+
+── chatbot.db # SQLite database (auto-generated)
+
+── requirements.txt
+
+── .env
+
+── README.md
 
 
 
